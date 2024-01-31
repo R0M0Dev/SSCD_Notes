@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "SSCD_1st_internals/SSCD_Internals_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597f44e84ec363e2",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "SSCD_1st_internals/SSCD_Internals_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "SSCD_1st_internals/SSCD_Internals_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "SSCD_1st_internals/SSCD_Internals_1.md"
               }
             }
           }
@@ -148,23 +149,24 @@
   },
   "active": "f7d072f7672d1ba9",
   "lastOpenFiles": [
-    "SSCD_1st_internals/SSCD_Internals_1.md",
-    "Introduction.md",
-    "BOOTSTRAP LOADER.md",
-    "Pasted image 20240131153400.png",
-    "Pasted image 20240131153316.png",
-    "Pasted image 20240131153146.png",
-    "Pasted image 20240131152500.png",
-    "Pasted image 20240131152445.png",
-    "Pasted image 20240131151617.png",
-    "Pasted image 20240131151552.png",
-    "Pasted image 20240131151437.png",
-    "Pasted image 20240131151423.png",
     "STRUCTURE (PHASES) OF A COMPILER.md",
-    "Loaders and Linkers.md",
+    "Pasted image 20240131172749.png",
+    "Pasted image 20240131172711.png",
+    "Pasted image 20240131172652.png",
+    "Pasted image 20240131172550.png",
+    "Pasted image 20240131172356.png",
+    "Pasted image 20240131172247.png",
+    "Pasted image 20240131172232.png",
+    "Pasted image 20240131172129.png",
+    "Pasted image 20240131172043.png",
+    "Pasted image 20240131171943.png",
+    "SSCD_1st_internals/SSCD_Internals_1.md",
     "SIMPLIFIED INSTRUCTIONAL COMPUTER (SIC).md",
     "Macroprocessor.md",
     "Welcome.md",
+    "Introduction.md",
+    "BOOTSTRAP LOADER.md",
+    "Loaders and Linkers.md",
     "SSCD_1st_internals"
   ]
 }
