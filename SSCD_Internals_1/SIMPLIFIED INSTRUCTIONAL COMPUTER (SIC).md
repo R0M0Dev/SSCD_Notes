@@ -11,3 +11,5 @@ Like many other products, SIC comes in two versions
 ![[Pasted image 20240131165437.png]]
 ![[Pasted image 20240131165631.png]]
 ![[Pasted image 20240131165939.png]]
+
+https://www.youtube.com/watch?v=-ykBblU7gU0

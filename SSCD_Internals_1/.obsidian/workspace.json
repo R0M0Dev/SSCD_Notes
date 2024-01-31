@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSCD_1st_internals/SSCD_Internals_1.md",
+                "file": "Loaders and Linkers.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSCD_1st_internals/SSCD_Internals_1.md",
+                "file": "Loaders and Linkers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSCD_1st_internals/SSCD_Internals_1.md",
+                "file": "Loaders and Linkers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSCD_1st_internals/SSCD_Internals_1.md"
+                "file": "Loaders and Linkers.md"
               }
             }
           }
@@ -149,24 +149,27 @@
   },
   "active": "f7d072f7672d1ba9",
   "lastOpenFiles": [
-    "STRUCTURE (PHASES) OF A COMPILER.md",
-    "Pasted image 20240131172749.png",
-    "Pasted image 20240131172711.png",
-    "Pasted image 20240131172652.png",
-    "Pasted image 20240131172550.png",
-    "Pasted image 20240131172356.png",
-    "Pasted image 20240131172247.png",
-    "Pasted image 20240131172232.png",
-    "Pasted image 20240131172129.png",
-    "Pasted image 20240131172043.png",
-    "Pasted image 20240131171943.png",
+    "Pasted image 20240201040918.png",
+    "Pasted image 20240201040647.png",
+    "Pasted image 20240201040558.png",
+    "Pasted image 20240201040547.png",
+    "Pasted image 20240201040502.png",
+    "Pasted image 20240201040445.png",
+    "Pasted image 20240201040444.png",
     "SSCD_1st_internals/SSCD_Internals_1.md",
+    "LEX.md",
+    "ROLE OF LEXICAL ANALYZER--INPUT BUFFERING.md",
+    "Pasted image 20240201034850.png",
+    "Pasted image 20240201034533.png",
+    "Pasted image 20240201034501.png",
+    "Pasted image 20240201034257.png",
+    "STRUCTURE (PHASES) OF A COMPILER.md",
+    "Introduction.md",
+    "Loaders and Linkers.md",
+    "BOOTSTRAP LOADER.md",
     "SIMPLIFIED INSTRUCTIONAL COMPUTER (SIC).md",
     "Macroprocessor.md",
     "Welcome.md",
-    "Introduction.md",
-    "BOOTSTRAP LOADER.md",
-    "Loaders and Linkers.md",
     "SSCD_1st_internals"
   ]
 }
