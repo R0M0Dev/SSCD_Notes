@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "0f9aa19f606a85f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a66c0c19448a969a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7d072f7672d1ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa044c5e3f1fe642",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb8f6f415f79ec28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f612211a3b04f350",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52a31b439d25f014",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a366c727f5da1276",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "597f44e84ec363e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6628b73c2117739f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe89111f3c685e70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4e5b30ce7cb7360",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "646404d42858d000",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e7c3392f8b9f6ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f7d072f7672d1ba9",
+  "lastOpenFiles": [
+    "SSCD_1st_internals/SSCD_Internals_1.md",
+    "Introduction.md",
+    "BOOTSTRAP LOADER.md",
+    "Pasted image 20240131153400.png",
+    "Pasted image 20240131153316.png",
+    "Pasted image 20240131153146.png",
+    "Pasted image 20240131152500.png",
+    "Pasted image 20240131152445.png",
+    "Pasted image 20240131151617.png",
+    "Pasted image 20240131151552.png",
+    "Pasted image 20240131151437.png",
+    "Pasted image 20240131151423.png",
+    "STRUCTURE (PHASES) OF A COMPILER.md",
+    "Loaders and Linkers.md",
+    "SIMPLIFIED INSTRUCTIONAL COMPUTER (SIC).md",
+    "Macroprocessor.md",
+    "Welcome.md",
+    "SSCD_1st_internals"
+  ]
+}
