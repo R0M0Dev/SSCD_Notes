@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loaders and Linkers.md",
+                "file": "REVIEW OF REG-EXP, RECOGNITION OF TOKENS.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Loaders and Linkers.md",
+                "file": "REVIEW OF REG-EXP, RECOGNITION OF TOKENS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Loaders and Linkers.md",
+                "file": "REVIEW OF REG-EXP, RECOGNITION OF TOKENS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loaders and Linkers.md"
+                "file": "REVIEW OF REG-EXP, RECOGNITION OF TOKENS.md"
               }
             }
           }
@@ -149,26 +149,27 @@
   },
   "active": "f7d072f7672d1ba9",
   "lastOpenFiles": [
+    "Pasted image 20240201063346.png",
+    "Pasted image 20240201063307.png",
+    "Pasted image 20240201063233.png",
+    "SSCD_1st_internals/SSCD_Internals_1.md",
+    "REVIEW OF REG-EXP, RECOGNITION OF TOKENS.md",
+    "LEX.md",
+    "Pasted image 20240201063158.png",
+    "Pasted image 20240201063145.png",
+    "Pasted image 20240201063131.png",
+    "Pasted image 20240201063113.png",
+    "SIMPLIFIED INSTRUCTIONAL COMPUTER (SIC).md",
+    "Macroprocessor.md",
+    "Loaders and Linkers.md",
     "Pasted image 20240201040918.png",
     "Pasted image 20240201040647.png",
     "Pasted image 20240201040558.png",
     "Pasted image 20240201040547.png",
-    "Pasted image 20240201040502.png",
-    "Pasted image 20240201040445.png",
-    "Pasted image 20240201040444.png",
-    "SSCD_1st_internals/SSCD_Internals_1.md",
-    "LEX.md",
     "ROLE OF LEXICAL ANALYZER--INPUT BUFFERING.md",
-    "Pasted image 20240201034850.png",
-    "Pasted image 20240201034533.png",
-    "Pasted image 20240201034501.png",
-    "Pasted image 20240201034257.png",
     "STRUCTURE (PHASES) OF A COMPILER.md",
     "Introduction.md",
-    "Loaders and Linkers.md",
     "BOOTSTRAP LOADER.md",
-    "SIMPLIFIED INSTRUCTIONAL COMPUTER (SIC).md",
-    "Macroprocessor.md",
     "Welcome.md",
     "SSCD_1st_internals"
   ]
