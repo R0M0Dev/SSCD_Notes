@@ -18,6 +18,7 @@ A Simple Bootstrap Loader
 ![[Pasted image 20240201040502.png]]
 ![[Pasted image 20240201040547.png]]
 ![[Pasted image 20240201040558.png]]
+![[Pasted image 20240201081600.png]]
 
 ![[Pasted image 20240201040647.png]]
 ![[Pasted image 20240201040918.png]]

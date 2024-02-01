@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FINITE AUTOMATA.md",
+                "file": "Loaders and Linkers.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FINITE AUTOMATA.md",
+                "file": "Loaders and Linkers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FINITE AUTOMATA.md",
+                "file": "Loaders and Linkers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FINITE AUTOMATA.md"
+                "file": "Loaders and Linkers.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "f7d072f7672d1ba9",
   "lastOpenFiles": [
+    "Pasted image 20240201081600.png",
+    "SSCD_1st_internals/SSCD_Internals_1.md",
+    "FINITE AUTOMATA.md",
     "Pasted image 20240201070537.png",
     "Pasted image 20240201070529.png",
     "Pasted image 20240201070521.png",
     "Pasted image 20240201070455.png",
     "Pasted image 20240201070438.png",
-    "SSCD_1st_internals/SSCD_Internals_1.md",
-    "FINITE AUTOMATA.md",
     "LEX.md",
     "REVIEW OF REG-EXP, RECOGNITION OF TOKENS.md",
     "Pasted image 20240201070402.png",
@@ -163,7 +164,6 @@
     "Pasted image 20240201070253.png",
     "Pasted image 20240201070221.png",
     "Pasted image 20240201070203.png",
-    "Pasted image 20240201063346.png",
     "SIMPLIFIED INSTRUCTIONAL COMPUTER (SIC).md",
     "Macroprocessor.md",
     "Loaders and Linkers.md",
